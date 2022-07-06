@@ -20,7 +20,6 @@ import org.devio.hi.library.util.HiViewUtil;
 import org.devio.hi.ui.R;
 import org.devio.hi.ui.tab.common.IHiTabLayout;
 
-import java.util.AbstractList;
 import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;

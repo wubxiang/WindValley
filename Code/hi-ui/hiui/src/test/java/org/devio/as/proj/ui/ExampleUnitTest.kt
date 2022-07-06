@@ -1,4 +1,4 @@
-package org.devio.hi.library
+package org.devio.`as`.proj.ui
 
 import org.junit.Test
 

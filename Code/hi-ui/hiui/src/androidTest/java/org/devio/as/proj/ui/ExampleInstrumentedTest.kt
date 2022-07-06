@@ -1,4 +1,4 @@
-package org.devio.hi.ui
+package org.devio.`as`.proj.ui
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

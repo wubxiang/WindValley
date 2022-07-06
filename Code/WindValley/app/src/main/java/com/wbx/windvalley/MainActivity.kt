@@ -3,9 +3,10 @@ package com.wbx.windvalley
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View
+import org.devio.`as`.proj.common.ui.component.HiBaseActivity
 import org.devio.hi.library.log.*
 
-class MainActivity : AppCompatActivity() {
+class MainActivity : HiBaseActivity() {
     var viewPrinter:HiViewPrinter?=null
 
     override fun onCreate(savedInstanceState: Bundle?) {
