@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Hiui">
         <activity
+            android:name=".refresh.HiRefreshActivity"
+            android:exported="false" />
+        <activity
             android:name=".tab.HiTopActivity"
             android:exported="false" />
         <activity
